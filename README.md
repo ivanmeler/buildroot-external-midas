@@ -11,7 +11,7 @@ git clone git://git.buildroot.net/buildroot
 
 Clone this repo:
 ```
-git clone https://github.com/fourkbomb/buildroot-external-midas
+git clone https://github.com/ivanmeler/buildroot-external-midas
 ```
 
 Make sure you have `abootimg` installed (`sudo apt install abootimg` for Debian, or [abootimg-git](https://aur.archlinux.org/packages/abootimg-git/) for Arch).
